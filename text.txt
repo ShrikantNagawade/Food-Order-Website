@@ -1,0 +1,12 @@
+' 
+    <html> 
+    <head> 
+        <title>Foodies</title> 
+    </head> 
+    <body> 
+        <h2>Hello '.$USER_NAME.'!!</h2>
+        <h2>Hope you are doing well.</h2>
+        <h2>Your contact details: Contact Number '.$USER_NUM.' Email Address '.$to.' </h2> 
+        <p>Your food is on the way</p><p>Enjoy your food foodie!!</p>
+    </body> 
+    </html>'
